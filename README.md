@@ -6,12 +6,11 @@ The goal of the project was to review and compare different algorithms in the co
 
 **Summary**
 
-All code here is written in R and requires the packages ltm, boral, gllvm,
-glmmTMB, gmf, vegan, MASS, doMPI, xtable, corrplot and gcus.
+All code here is written in R and requires the packages: ltm, boral, gllvm, glmmTMB, gmf, vegan, MASS, doMPI, xtable, corrplot, and gcus.
 
 The file 'simulate_bernoulli.R' reproduces the simulation setup 1 in Section 4.1, while 'simulate_poisson.R' reproduces the simulation setup 2.
 
-'example.R' reproduces the example in Section 4.2, including Figures 3, 4 and 5.
+The file 'example.R' reproduces the example in Section 4.2, including Figures 3, 4 and 5.
 
 **Authors**
 
